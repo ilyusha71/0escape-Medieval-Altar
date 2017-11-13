@@ -110,6 +110,7 @@ public partial class Altar : MonoBehaviour
 
         if (commands[1] == "Medieval Start")
         {
+            ArduinoController.instance.msgBox.Keyword("Medieval Start");
             timerManager.GameStart();
             timerManager.MissionStart(AltarState.HolyGrail.ToString());
             timerManager.MissionStart(AltarState.RoundTable.ToString());
