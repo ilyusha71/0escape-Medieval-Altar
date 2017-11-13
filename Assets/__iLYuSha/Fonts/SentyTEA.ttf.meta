@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 69b6b15f67c82084ca22b869bdb29163
+timeCreated: 1510545471
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SentyTEA ??????
+  fontNames:
+  - SentyTEA ??????
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

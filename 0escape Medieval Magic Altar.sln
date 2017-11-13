@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0escape Medieval Magic Altar", "0escape Medieval Magic Altar.csproj", "{0ECB93F8-ED8A-F0D3-242A-8A9A9DD72EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0escape Medieval Magic Altar.Editor", "0escape Medieval Magic Altar.Editor.csproj", "{B23B0A72-AFA9-A01C-6304-5B04C4C99F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECB93F8-ED8A-F0D3-242A-8A9A9DD72EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECB93F8-ED8A-F0D3-242A-8A9A9DD72EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECB93F8-ED8A-F0D3-242A-8A9A9DD72EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECB93F8-ED8A-F0D3-242A-8A9A9DD72EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23B0A72-AFA9-A01C-6304-5B04C4C99F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23B0A72-AFA9-A01C-6304-5B04C4C99F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23B0A72-AFA9-A01C-6304-5B04C4C99F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23B0A72-AFA9-A01C-6304-5B04C4C99F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
